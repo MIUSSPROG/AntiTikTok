@@ -11,7 +11,7 @@ database = databases.Database(DATABASE_URL)
 
 class UserModel(OrmarBaseUserModel):
     class Meta:
-        tablename = "users_2"
+        tablename = "users_21"
         metadata = metadata
         database = database
 

@@ -36,7 +36,9 @@
 
 --delete from videos
 --drop table videos
---drop table users]]></console>
+--drop table users
+
+select * from users_2]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
